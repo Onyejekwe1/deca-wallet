@@ -1,8 +1,6 @@
 # deca-wallet
 A wallet management system based on different user roles, with authentication and authorization
 
-[![Deca Wallet](https://github.com/Onyejekwe1/deca-wallet/workflows/deca-Wallet/badge.svg)](https://github.com/Onyejekwe1/deca-wallet/actions)
-
 ## Technologies
 
 * [Python 3.9](https://python.org) : Base programming language for development
